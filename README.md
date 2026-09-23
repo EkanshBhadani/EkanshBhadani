@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EkanshBhadani
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ... _____
-- 📫 How to reach me ...________
+- 👀 I’m interested in Programming and VLSI
+- 🌱 I’m currently learning Programming 
+- 💞️ I’m looking to collaborate on nothing right now
+- 📫 How to reach me trickedshark881@gmail.com
 
 <!---
 EkanshBhadani/EkanshBhadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
